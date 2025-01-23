@@ -495,7 +495,7 @@ if(isset($_POST['send']))
 	const chatBox = document.querySelector(".chatbox");
 	const chatbotToggler = document.querySelector(".chatbot-toggler");
 	let userMessage;
-	const API_KEY = "AIzaSyC6PvoIOvgMuZkJTtJd5sv6vuNH6buJiJ0";
+	const API_KEY = "ENTER YOUR API KEYS";
 	const inputInitHeight = chatInput.scrollHeight;
 	
 	const createChatli = (message,className) =>{
